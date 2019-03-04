@@ -1,2 +1,1 @@
-# scrolling-effect
-Scrolling effect JQuery
+# Scrolling effect JQuery
